@@ -1,0 +1,46 @@
+.review-stars-rated ul li{
+    color: #666666;
+}
+
+.review-stars ul li{
+    color: #727695;
+    font-size: 15px;
+    font-weight: 400;
+}
+.contact-us-link1{list-style-type: none;padding-left:0px;}
+.contact-us-link1 li a{color:#fff;}
+.contact-us-link1 li i{color:#fff;}
+.contact-us-link1 li{margin-bottom:8px;}
+
+.contact-us-link2{list-style-type: none;padding-left:0px;}
+.contact-us-link2 li a{color:#727695;}
+.contact-us-link2 li i{color:#727695;}
+.contact-us-link2 li{margin-bottom:8px;}
+
+.support-link1 li a{color:#fff;}
+.support-link1 li{margin-bottom:8px;}
+.support-link1{list-style-type: none;padding-left:0px;}
+
+.useful-link1 li a{color:#fff;}
+.useful-link1 li{margin-bottom:8px;}
+.useful-link1{list-style-type: none;padding-left:0px;}
+
+.what-we-offer{font-size: 18px;color: #1591ef;font-weight: bold;}
+
+.header-top{background:black;}
+
+.custom_width{width:100%;}
+.nice-select{height:35px;}
+.message-success-style li{list-style:none;padding-right:0px}
+/*slide responsive*/
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 580px)
+			{ 
+			  .offwhenmobile
+			  {	display:none; }	
+			}
+			@media only screen and (min-device-width : 581px) and (max-device-width : 5000px)
+			{ 
+			  .offwhenweb
+			  {	display:none; }	
+			}	

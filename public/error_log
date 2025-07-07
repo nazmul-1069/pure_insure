@@ -1,0 +1,4 @@
+[30-Apr-2025 11:20:05 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/pureinsurebd/public_html/public/index.php on line 52
+[30-Apr-2025 11:24:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/pureinsurebd/public_html/public/index.php on line 52
+[30-Apr-2025 11:24:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/pureinsurebd/public_html/public/index.php on line 52
+[30-Apr-2025 11:24:46 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/pureinsurebd/public_html/public/index.php on line 52
